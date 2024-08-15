@@ -9,17 +9,17 @@ body{
      h2{
      font-size: 70px text-aling 
      center;
-     color: azure;
+     color: rgb(14, 228, 228);
 }
 
 p{  
     font: size 30px;
-    color: aquamarine;
+    color: rgb(235, 20, 127);
  }
 .cabecalho{ 
-    background-color: #c21919; 
+    background-color: #cc1616; 
     padding: 30px; }
  h2{ 
      text-align: center;
       font-size: 75px;
-      color: rgb(33, 194, 18); }  
+      color: rgb(29, 87, 212); }  
