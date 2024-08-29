@@ -9,7 +9,7 @@ body{
 h1{
     font-size: 70px;
     text-align: center;
-    color: azure;
+    color: rgb(236, 235, 230);
 }
 
 p{
@@ -23,7 +23,7 @@ p{
 h2{
  text-align: center;
  font-size: 35px;
- color: #aa9f40;
+ color: #f7f6f5;
 }
 .video-container {
     position: relative;
